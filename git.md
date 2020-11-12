@@ -16,17 +16,17 @@
 #### 提交到远程仓库
 ```git push -u origin master```
 
-```$ git config --global user.name "Your Name"```
+```git config --global user.name "Your Name"```
 
-```$ git config --global user.email "email@example.com"it```
+```git config --global user.email "email@example.com"it```
 
 #### github镜像
 ```git clone https://github.com<.cnpmjs.org>/xxx/xxx.git```
 
 #### jsdelivr
-```shell
-https://cdn.jsdelivr.net/gh/user/repo@version/file
 
-https://cdn.jsdelivr.net/gh/futuresource/futuresource.github.io@master/p/b.jpg
-```
+```https://cdn.jsdelivr.net/gh/user/repo@version/file```
+
+```https://cdn.jsdelivr.net/gh/futuresource/futuresource.github.io@master/p/b.jpg```
+
 
