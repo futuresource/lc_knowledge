@@ -24,7 +24,9 @@
 ```git clone https://github.com<.cnpmjs.org>/xxx/xxx.git```
 
 #### jsdelivr
-```https://cdn.jsdelivr.net/gh/user/repo@version/file
+```shell
+https://cdn.jsdelivr.net/gh/user/repo@version/file
 
-https://cdn.jsdelivr.net/gh/futuresource/futuresource.github.io@master/p/b.jpg```
+https://cdn.jsdelivr.net/gh/futuresource/futuresource.github.io@master/p/b.jpg
+```
 
