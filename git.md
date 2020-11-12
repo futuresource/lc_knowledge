@@ -17,12 +17,14 @@
 ```git push -u origin master```
 
 ```$ git config --global user.name "Your Name"```
+
 ```$ git config --global user.email "email@example.com"it```
 
-####github镜像
+#### github镜像
 ```git clone https://github.com<.cnpmjs.org>/xxx/xxx.git```
 
-####jsdelivr
+#### jsdelivr
 ```https://cdn.jsdelivr.net/gh/user/repo@version/file
+
 https://cdn.jsdelivr.net/gh/futuresource/futuresource.github.io@master/p/b.jpg```
 
