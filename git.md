@@ -1,3 +1,8 @@
+#### 全局设置
+```git config --global user.name "Your Name"```
+
+```git config --global user.email "email@example.com"it```
+
 #### 生成key
 ```sh-keygen -t rsa -C "youremail@example.com"```
 
@@ -15,10 +20,6 @@
 
 #### 提交到远程仓库
 ```git push -u origin master```
-
-```git config --global user.name "Your Name"```
-
-```git config --global user.email "email@example.com"it```
 
 #### github镜像
 ```git clone https://github.com<.cnpmjs.org>/xxx/xxx.git```
